@@ -1,13 +1,4 @@
-﻿---
-title: Yaml Tutorial
-date: 2016-03-25 14:14:49
-tags: Yaml
----
-
-最近在参与公司测试团队的APITest的一些实施工作,选用的自动化测试框架对Yaml有所依赖,所以抽时间写了一份文档,为测试团队的同学们提供一些基础知识的入门支持。
-
----
-
+﻿
 ## Definition
 &#160; &#160; &#160; &#160;YAML Ain't Markup Language （Yaml不是标记语言，递归否定，可能是借鉴[GNU](https://zh.wikipedia.org/wiki/GNU)的梗）
   
